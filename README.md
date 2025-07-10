@@ -13,9 +13,6 @@ This project demonstrates deploying the open-source 2048 game using Docker and A
 2. Deployed to Elastic Beanstalk using a Single Instance environment on a Free Tier EC2 (`t2.micro`).
 3. Managed via AWS Console and AWS CLI.
 
-## 🔗 Live URL
-(Add here if hosted)
-
 ## 📸 Screenshots
 - Elastic Beanstalk dashboard
 - Game running on browser
